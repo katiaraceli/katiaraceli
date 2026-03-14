@@ -1,7 +1,7 @@
 # Hola, soy Katia Araceli 👋
 
 ### 🚀 Full Stack Developer
-Me apasiona construir aplicaciones completas, desde la arquitectura del servidor hasta interfaces de usuario modernas y dinámicas.
+Me especializo en diseñar soluciones digitales integrales, desde la arquitectura robusta del servidor hasta interfaces de usuario intuitivas y dinámicas. Mi enfoque está en la eficiencia y en cómo la Inteligencia Artificial puede potenciar el desarrollo moderno.
 
 ---
 
