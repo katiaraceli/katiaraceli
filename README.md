@@ -1,29 +1,41 @@
-# Hola, soy Katia Araceli 👋
+Hola, soy Katia Araceli 👋
+IA · Desarrollo de software · Soluciones digitales
 
-### 🚀 Full Stack Developer
-I specialize in designing end-to-end digital solutions, from robust server architecture to intuitive, dynamic user interfaces. My focus is on efficiency and leveraging Artificial Intelligence to power modern development.
+Construyo soluciones digitales combinando desarrollo de software, inteligencia artificial y análisis de datos.
 
----
+Me interesa especialmente transformar ideas y problemas concretos en herramientas funcionales: desde aplicaciones web hasta automatización y análisis de información.
 
-### 🛠️ Tecnologías que utilizo:
+🚀 Proyectos destacados
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+Intuición Digital
+Mi proyecto de soluciones digitales, actualmente desplegado y funcionando.
 
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+Agenda-Tu-Turno
+Aplicación web para la gestión automática de turnos.
 
----
+Golazo Game
+Videojuego en desarrollo. Arquitectura, lógica y código del proyecto.
 
-### 📊 Mis estadísticas de GitHub:
-![Estadísticas de Katia](https://github-readme-stats.vercel.app/api?username=katiaraceli&show_icons=true&theme=dark)
+Python Student Data Analysis
+Proyecto de análisis de datos de estudiantes y generación automatizada de reportes.
 
----
+🛠️ Tecnologías
 
-### 📫 ¿Cómo contactarme?
+Lenguajes: Python · TypeScript · JavaScript
+
+Frontend: React · Next.js · HTML · CSS
+
+Backend: Node.js
+
+Data & AI: Python · análisis de datos · Inteligencia Artificial
+
+📫 Contacto
+LinkedIn: Katia Araceli Rivero
+Email: racelikatia@gmail.com
+Web: Intuición Digital
+
+
+
+
 - **LinkedIn:** [https://www.linkedin.com/in/katia-araceli-rivero-a444b2257]
 - **Email:** [racelikatia@gmail.com]
