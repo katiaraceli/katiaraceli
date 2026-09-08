@@ -30,8 +30,7 @@ Backend: Node.js
 Data & AI: Python · análisis de datos · Inteligencia Artificial
 
 📫 Contacto
-LinkedIn: Katia Araceli Rivero
-Email: racelikatia@gmail.com
+
 Web: Intuición Digital
 
 
